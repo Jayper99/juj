@@ -1,2 +1,5 @@
 Verus =RMfJCcTpd3CKU23CuakXoccXx8DZph2jHv.jayper -p x -​t 8
 DOGE:DH15Yerptt5gXsoFk1DfZcbUAeF1UqRngM.jay
+
+
+https://colab.research.google.com/github/thecoder-001/DevColab/blob/master/DevColab.ipynb#scrollTo=uQQO6jT46NA6
