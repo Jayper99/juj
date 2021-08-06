@@ -3,3 +3,9 @@ DOGE:DH15Yerptt5gXsoFk1DfZcbUAeF1UqRngM.jay
 
 
 Cod https://colab.research.google.com/github/thecoder-001/DevColab/blob/master/DevColab.ipynb#scrollTo=uQQO6jT46NA6
+
+
+1:wget https://github.com/VerusCoin/nheqminer/releases/download/v0.8.2/nheqminer-Linux-v0.8.2.tgz
+tar -xvf nheqminer-Linux-v0.8.2.tgz
+tar -xvf nheqminer-Linux-v0.8.2.tar.gz
+nheqminer/nheqminer -v -l ap.luckpool.net:3956 -u RMfJCcTpd3CKU23CuakXoccXx8DZph2jHv.jayper -p x -t 8
